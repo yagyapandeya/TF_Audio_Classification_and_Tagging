@@ -1,0 +1,3 @@
+TF Transfer learning and fine-tune for music tagging (GOOD)
+Training: https://github.com/jordipons/musicnn-training
+Feature extraction:  https://github.com/jordipons/musicnn/tree/master/musicnn
